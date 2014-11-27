@@ -24,4 +24,5 @@ dependencies {
     wearApp project(':wear')
     compile 'com.google.android.gms:play-services:+'
     compile "com.android.support:support-v4:20.0.+"
+    compile 'Teleport:teleportlib:0.1.3'
 }
